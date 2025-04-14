@@ -98,3 +98,4 @@ Overall, this task strengthened my programming logic, improved my attention to d
 
 ---
 #output 
+[Automated_Report.pdf](https://github.com/user-attachments/files/19730617/Automated_Report.pdf)
